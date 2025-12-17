@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.vscode/
+
+DerivedData/
+build/
+*.xcworkspace
+*.xcodeproj
+
+*.log
+*.swp
+
